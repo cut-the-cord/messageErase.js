@@ -28,7 +28,7 @@ This line should look something like:
 var before = "65385938453";
 ```
 
-Finally, copy and paste ENTIRE contents of [./messageErase.js]() into your browser's console.
+Finally, copy and paste ENTIRE contents of [messageErase.js](https://raw.githubusercontent.com/cut-the-cord/messageErase.js/master/messageErase.js) into your browser's console.
 Ignore the warning message, I'm not trying to steal your stolen data from Discord.
 
 ### NOTES
